@@ -1,0 +1,7 @@
+20240528	16:46:45	44feef05-ec3f-42e7-8f63-b143d056aa1b	Error:it is not allowed by CORS	OPTIONS	/	https://www.google.com
+20240528	16:46:45	2330d2ed-e477-4625-9224-732b75b9c128	Error:it is not allowed by CORS	GET	/	https://www.google.com
+20240530	10:56:15	ffea4df4-0b11-416e-a116-ba3c73211712	ReferenceError:id is not defined	GET	/planets/1	undefined
+20240530	10:56:37	c72485b5-7ba0-410d-995b-3793a351fa3f	ReferenceError:id is not defined	GET	/planets/1	undefined
+20240530	10:56:46	164d1a17-3aaf-4eb2-8796-a775a944bf91	ReferenceError:id is not defined	GET	/planets/1	undefined
+20240530	11:02:05	a3ac2fad-235b-4930-bf84-3c25e3e494f4	ReferenceError:swapi is not defined	GET	/planets/1	undefined
+20240530	12:57:00	99f4505b-650e-4b48-990a-223fb9469fc2	ReferenceError:path is not defined	GET	/planets	undefined
